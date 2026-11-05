@@ -1,0 +1,8 @@
+{
+  "name": "Remix SPARK - Videojuego Matemático IB PYP",
+  "description": "IB PYP mathematical adventure and inquiry game with interactive island worlds, Math Lab, avatars, pets, and teacher dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
